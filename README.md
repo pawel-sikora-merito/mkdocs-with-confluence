@@ -48,5 +48,13 @@ Use following config and adjust it according to your needs:
 - md2cf
 - mimetypes
 - mistune
+fix_documentation
 ## Additional contributors:
 Hubert Przybylski - wrx93068 - Merito 
+=======
+
+## Additional contributors:
+rbor-merito
+Quinctilli-Merito-100241
+pawel-sikora-merito
+main
