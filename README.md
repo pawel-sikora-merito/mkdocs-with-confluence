@@ -50,6 +50,11 @@ Use following config and adjust it according to your needs:
 - mistune
 
 ## Additional contributors:
+Kacyna-patch-1
+-Kacyna
+-Dominik-Kosecki-Merito
+=======
 rbor-merito
 Quinctilli-Merito-100241
 pawel-sikora-merito
+ main
