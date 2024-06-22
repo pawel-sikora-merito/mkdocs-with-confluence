@@ -50,4 +50,10 @@ Use following config and adjust it according to your needs:
 - mistune
 
 ## Additional contributors:
+fix_documentation
 <ALicja12345>
+=======
+rbor-merito
+Quinctilli-Merito-100241
+pawel-sikora-merito
+main
