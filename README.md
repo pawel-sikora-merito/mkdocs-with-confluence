@@ -50,6 +50,7 @@ Use following config and adjust it according to your needs:
 - mistune
 
 ## Additional contributors:
+weronika-kanoza-merito
 rbor-merito
 Quinctilli-Merito-100241
 pawel-sikora-merito
