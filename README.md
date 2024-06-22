@@ -48,3 +48,7 @@ Use following config and adjust it according to your needs:
 - md2cf
 - mimetypes
 - mistune
+- ''
+## Additional contributors:
+<Karol99976>
+"
