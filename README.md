@@ -41,7 +41,6 @@ Use following config and adjust it according to your needs:
         #debug: true
         dryrun: true
 ```
-
 ## Parameters:
 
 ### Requirements
