@@ -51,5 +51,5 @@ Use following config and adjust it according to your needs:
 
 ## Additional contributors:
 Quinctilli-Merito-100241
-rbor-merito
 pawel-sikora-merito
+rbor-merito
